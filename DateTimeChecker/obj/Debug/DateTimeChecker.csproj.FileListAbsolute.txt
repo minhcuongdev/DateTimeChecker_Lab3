@@ -1,0 +1,13 @@
+D:\Testing\DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.exe.config
+D:\Testing\DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.exe
+D:\Testing\DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.pdb
+D:\Testing\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csprojAssemblyReference.cache
+D:\Testing\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.Form1.resources
+D:\Testing\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.Properties.Resources.resources
+D:\Testing\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csproj.GenerateResource.cache
+D:\Testing\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csproj.CoreCompileInputs.cache
+D:\Testing\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.exe
+D:\Testing\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.pdb
+D:\Testing\DateTimeChecker\DateTimeChecker\bin\Debug\nunit.framework.dll
+D:\Testing\DateTimeChecker\DateTimeChecker\bin\Debug\nunit.framework.xml
+D:\Testing\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csproj.CopyComplete
